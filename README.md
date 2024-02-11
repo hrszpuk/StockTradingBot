@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="assets/logo.png" width="400">
-</div>
-
 <h2 align="center">
   Stock Trading Bot
 </h2>
@@ -9,6 +5,10 @@
 <p align="center">
   An AI-powered stock trading bot written in Python.
 </p>
+
+<div align="center">
+  <img src="assets/logo.png" width="400">
+</div>
 
 ## Features
 - **Trading Bot**: A stock trading bot that uses AI to make decisions.
